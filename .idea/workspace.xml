@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/qie.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/push-Src.sh" beforeDir="false" afterPath="$PROJECT_DIR$/push-Src.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +66,7 @@
       <workItem from="1668384625406" duration="1471000" />
       <workItem from="1668388000579" duration="1967000" />
       <workItem from="1668390997464" duration="1733000" />
-      <workItem from="1668394332354" duration="7734000" />
+      <workItem from="1668394332354" duration="7854000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
