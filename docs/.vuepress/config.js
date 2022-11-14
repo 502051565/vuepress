@@ -147,7 +147,6 @@ module.exports = {
       bubbleNum: 200,   // 气泡的个数，bubble 为 true 生效，默认 200 个
     },
 
-
   }
 
 }
