@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:\work\soft\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HTB9Wr4PxGGulPEJaTElYQK4kf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../vuepress" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="" />
+      <created>1668299041754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668299041754</updated>
+      <workItem from="1668299042830" duration="6287000" />
+      <workItem from="1668384625406" duration="1471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="596" y="133" key="FileChooserDialogImpl" timestamp="1668302006181">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="596" y="133" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1668302006181" />
+    <state x="222" y="39" key="SettingsEditor" timestamp="1668309626403">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="222" y="39" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1668309626403" />
+    <state x="701" y="122" width="600" height="630" key="find.popup" timestamp="1668309370538">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="701" y="122" width="600" height="630" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1668309370538" />
+  </component>
+</project>
