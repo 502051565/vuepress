@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: xustudyxu's Blog
+heroText: 502051565
 tagline: 付出就会有收获，积跬步以至千里。
 pageClass: vdoing-index-class
 ---

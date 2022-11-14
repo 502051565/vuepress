@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="" />
+    <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -23,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../vuepress" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -40,13 +47,36 @@
       <updated>1668299041754</updated>
       <workItem from="1668299042830" duration="6287000" />
       <workItem from="1668384625406" duration="1471000" />
+      <workItem from="1668388000579" duration="1967000" />
+      <workItem from="1668390997464" duration="1733000" />
+      <workItem from="1668394332354" duration="3751000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1668389930490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668389930490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="260" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668393812210">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="260" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1668393812210" />
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1668389929665">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1668389929665" />
     <state x="596" y="133" key="FileChooserDialogImpl" timestamp="1668302006181">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -55,9 +85,17 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="222" y="39" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1668309626403" />
-    <state x="701" y="122" width="600" height="630" key="find.popup" timestamp="1668309370538">
+    <state x="312" y="129" key="Vcs.Push.Dialog.v2" timestamp="1668389952108">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="701" y="122" width="600" height="630" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1668309370538" />
+    <state x="312" y="129" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1668389952108" />
+    <state x="525" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1668389609134">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="525" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1668389609134" />
+    <state x="474" y="91" width="841" height="630" key="find.popup" timestamp="1668400853611">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="474" y="91" width="841" height="630" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1668400853611" />
   </component>
 </project>
