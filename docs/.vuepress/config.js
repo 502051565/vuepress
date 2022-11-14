@@ -2,7 +2,7 @@ const pluginsConf = require('./config/pluginsConf.js');
 const { readFileList, readTotalFileWords, readEachFileWords } = require('./webSiteInfo/readFile');
 module.exports = {
   base: '/', //设置站点根路径
-  title: 'xustudyxu\'s Blog',
+  title: 'lwy\'s Blog',
   description: '一起学习编程!',
   dest: 'docs/.vuepress/dist',
   port: '7777',
@@ -51,7 +51,7 @@ module.exports = {
     //     appId: '4YPBTYO9VH',
     // },
     // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
-    repo: 'xustudyxu/xustudyxu.github.io',
+    repo: '/502051565/vuepress',
     // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
     // "GitHub"/"GitLab"/"Bitbucket" 其中之一，或是 "Source"。
     repoLabel: '查看源码',
@@ -68,7 +68,7 @@ module.exports = {
     // // 默认是 false, 设置为 true 来启用
 
     //首页大图
-    bodyBgImg: 'https://s1.ax1x.com/2022/05/20/OLpgmD.jpg',  // 你的图片路径(必须位于 public 下)，可以是 URL
+    bodyBgImg: 'img/home.jpg',  // 你的图片路径(必须位于 public 下)，可以是 URL
     bodyBgImgOpacity: 1, // body 背景图透明度，选值 0 ~ 1.0, 默认0.5
 
     serviceWorker: {
@@ -85,17 +85,17 @@ module.exports = {
         {
           iconClass: 'icon-youjian',
           title: '发邮件',
-          link: 'mailto:1812903531@qq.com',
+          link: 'mailto:502051565@qq.com',
         },
         {
           iconClass: 'icon-github',
           title: 'GitHub',
-          link: 'https://github.com/xustudyxu',
+          link: 'https://github.com/502051565',
         },
         {
           iconClass: 'icon-weixin',
           title: '微信',
-          link: 'https://frxcat.fun/img/wx.png',
+          link: 'img/wx.jpg',
         },
       ],
     },

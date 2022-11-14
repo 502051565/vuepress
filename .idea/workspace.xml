@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+    <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/wx.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/Friendship_links.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/Friendship_links.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/about/me.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/about/me.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +32,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/.vuepress/public/img" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\.vuepress\public\img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -49,7 +56,7 @@
       <workItem from="1668384625406" duration="1471000" />
       <workItem from="1668388000579" duration="1967000" />
       <workItem from="1668390997464" duration="1733000" />
-      <workItem from="1668394332354" duration="3751000" />
+      <workItem from="1668394332354" duration="6678000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
@@ -73,10 +80,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="260" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1668393812210" />
-    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1668389929665">
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1668401063291">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1668389929665" />
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1668401063291" />
     <state x="596" y="133" key="FileChooserDialogImpl" timestamp="1668302006181">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -85,17 +92,17 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="222" y="39" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1668309626403" />
-    <state x="312" y="129" key="Vcs.Push.Dialog.v2" timestamp="1668389952108">
+    <state x="312" y="129" key="Vcs.Push.Dialog.v2" timestamp="1668401065960">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="312" y="129" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1668389952108" />
+    <state x="312" y="129" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1668401065960" />
     <state x="525" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1668389609134">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="525" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1668389609134" />
-    <state x="474" y="91" width="841" height="630" key="find.popup" timestamp="1668400853611">
+    <state x="561" y="204" width="841" height="630" key="find.popup" timestamp="1668403097539">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="474" y="91" width="841" height="630" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1668400853611" />
+    <state x="561" y="204" width="841" height="630" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1668403097539" />
   </component>
 </project>

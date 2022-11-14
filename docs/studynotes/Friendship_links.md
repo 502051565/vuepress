@@ -54,10 +54,10 @@ tags:
 **若要交换友链，请先将本站链接添加到你的网站，然后按下列<<格式>>留言：**
 
 ```yaml
-name: xustudyxu
+name: lwy
 desc: 一起学习编程!
 avatar: https://cdn.staticaly.com/gh/xustudyxu/image-hosting@master/20220627/mmexport1656324824543.124zxwkqyzlc.webp
-link: https://frxcat.fun/
+link: https://502051565.github.io/
 bgColor: '#CBEAFA'
 ```
 
