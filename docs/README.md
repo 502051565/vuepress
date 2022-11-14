@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 502051565
+heroText: lwy
 tagline: 付出就会有收获，积跬步以至千里。
 pageClass: vdoing-index-class
 ---

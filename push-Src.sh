@@ -1,3 +1,3 @@
-git add -A
-git commit -m ":wrench:添加内容:rocket:"
-git push -f git@github.com:xustudyxu/xustudyxu.github.io.git master
+  git add -A
+git commit -m ":wrench:commit:rocket:"
+git push -f git@github.com:502051565/vuepress.github.io.git master

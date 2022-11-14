@@ -60,7 +60,7 @@ module.exports = {
     // 以下为可选的编辑链接选项
 
     // // 假如你的文档仓库和项目本身不在一个仓库：
-    docsRepo: 'xustudyxu/xustudyxu.github.io',
+    docsRepo: '502051565/502051565.github.io',
     // // 假如文档不是放在仓库的根目录下：
     docsDir: 'docs',
     // // 假如文档放在一个特定的分支下：
@@ -100,19 +100,19 @@ module.exports = {
       ],
     },
     author: {
-      name: 'xu', // 必需
+      name: 'lwy', // 必需
     },
     // 博主信息 (显示在首页侧边栏)
     blogger: {
-      avatar: 'https://cdn.staticaly.com/gh/xustudyxu/image-hosting@master/20220627/mmexport1656324824543.124zxwkqyzlc.webp',
-      name: 'xustudyxu',
+      avatar: 'img/qie.png',
+      name: 'lwy',
       slogan: '一起学习编程!',
     },
-    footer: {
-      createYear: 2021, // 博客创建年份
-      copyrightInfo:
-        'xustudyxu |<a href="https://beian.miit.gov.cn" target="_blank">豫ICP备2022008983号</a><br>	<a href="https://imgtu.com/i/XQkn6x"><img src="https://s1.ax1x.com/2022/05/29/XQkn6x.png" alt="XQkn6x.png" border="0" /></a>	 		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41018302000331" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px;">豫公网安备 41018302000331号</p></a>'
-    },
+    // footer: {
+    //   createYear: 2021, // 博客创建年份
+    //   copyrightInfo:
+    //     'lwy |<a href="https://beian.miit.gov.cn" target="_blank">豫ICP备2022008983号</a><br>	<a href="https://imgtu.com/i/XQkn6x"><img src="https://s1.ax1x.com/2022/05/29/XQkn6x.png" alt="XQkn6x.png" border="0" /></a>	 		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41018302000331" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px;">豫公网安备 41018302000331号</p></a>'
+    // },
 
     // 站点配置（首页 & 文章页）
     blogInfo: {
