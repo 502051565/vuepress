@@ -100,7 +100,8 @@ module.exports = [{
       text: '框架',
       items: [
         { text: 'MyBatis', link: '/pages/0e424f/' },
-        { text: 'MyBatis-Plus', link: '/pages/e0594a/' }
+        { text: 'MyBatis-Plus', link: '/pages/e0594a/' },
+        { text: 'ShardingSphere', link: '/pages/1f54f3/' }
       ]
     },
   ]

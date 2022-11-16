@@ -85,36 +85,43 @@ module.exports = [
     '/studynotes/database/HBase/Basic_prin'
 
       ]
-        },{
-          title:'MyBatis',
+      },{
+        title:'MyBatis',
+        collapsable: false,
+        children:[
+        '/studynotes/database/MyBatis/Getting_started',
+        '/studynotes/database/MyBatis/XML_config',
+        '/studynotes/database/MyBatis/XML_Mapping',
+        '/studynotes/database/MyBatis/DynamicSQL',
+        '/studynotes/database/MyBatis/Cache_',
+        '/studynotes/database/MyBatis/reverse_engineering',
+        '/studynotes/database/MyBatis/page_plu',
+
+
+          ]
+        },
+        {
+          title:'MyBatis-Plus',
           collapsable: false,
           children:[
-          '/studynotes/database/MyBatis/Getting_started',
-          '/studynotes/database/MyBatis/XML_config',
-          '/studynotes/database/MyBatis/XML_Mapping',
-          '/studynotes/database/MyBatis/DynamicSQL',
-          '/studynotes/database/MyBatis/Cache_',
-          '/studynotes/database/MyBatis/reverse_engineering',
-          '/studynotes/database/MyBatis/page_plu',
-      
-      
+          '/studynotes/database/MyBatis/Plus_index_',
+          '/studynotes/database/MyBatis/Plus_Getting_started',
+          '/studynotes/database/MyBatis/Plus_base_crud',
+          '/studynotes/database/MyBatis/Plus_annotation',
+          '/studynotes/database/MyBatis/Plus_Conditional_constructor',
+          '/studynotes/database/MyBatis/Plus_Plugin',
+          '/studynotes/database/MyBatis/Plus_enum',
+          '/studynotes/database/MyBatis/Plus_AutoMakecode',
+          '/studynotes/database/MyBatis/Plus-MoreDataSource',
+          '/studynotes/database/MyBatis/Plus_MyBatisX',
             ]
-          },
-          {
-            title:'MyBatis-Plus',
-            collapsable: false,
-            children:[
-            '/studynotes/database/MyBatis/Plus_index_',
-            '/studynotes/database/MyBatis/Plus_Getting_started',
-            '/studynotes/database/MyBatis/Plus_base_crud',
-            '/studynotes/database/MyBatis/Plus_annotation',
-            '/studynotes/database/MyBatis/Plus_Conditional_constructor',
-            '/studynotes/database/MyBatis/Plus_Plugin',
-            '/studynotes/database/MyBatis/Plus_enum',
-            '/studynotes/database/MyBatis/Plus_AutoMakecode',
-            '/studynotes/database/MyBatis/Plus-MoreDataSource',
-            '/studynotes/database/MyBatis/Plus_MyBatisX',
-              ]
-          }
-  
+        },
+        {
+          title:'Sharding-Sphere',
+          collapsable: false,
+          children:[
+            '/studynotes/database/ShardingSphere/ShardingSphere_index_'
+          ]
+        }
+
 ]

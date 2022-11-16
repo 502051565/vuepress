@@ -2,7 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change beforePath="$PROJECT_DIR$/push-Src.sh" beforeDir="false" afterPath="$PROJECT_DIR$/push-Src.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906171700723.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906171712584.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906171730541.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906171735509.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906172653451.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906173758427.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906180305240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-202009061909510.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906191548730.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906191918904.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907101445496.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907101742198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907110200658.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907154007333.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907155213701.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907160515237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907164813426.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907165429502.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907170252742.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907170551586.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907181554550.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907181905163.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907192907516.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907193540976.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907193859513.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907194133618.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907194401291.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908173203247.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908173405206.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908173557367.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908174439213.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908180640817.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908180937278.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908213319175.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908213359911.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221114165415295.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115135450558.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115135734115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115140002924.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115141343114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115142628824.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115142749172.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115143014212.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115143139636.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115143337092.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115144719022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115145507783.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115150112156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115151209041.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115161053281.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115163136330.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115163610729.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115163626670.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115165842904.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115170029656.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115171000102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115171452703.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115172824447.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115174427788.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115174442807.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115180130279.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115214414003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115220159834.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115220810329.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115222130975.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115222438163.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115222631757.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/ShardingSphere_index_.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/database/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/database/sidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,31 +98,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\studynotes\database\ShardingSphere\1.shardingjdbc.assets" />
+      <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\studynotes\database\ShardingSphere" />
       <recent name="F:\2022_study\webcode\502051565.github.io-master" />
       <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\.vuepress\public\img" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -66,7 +125,10 @@
       <workItem from="1668384625406" duration="1471000" />
       <workItem from="1668388000579" duration="1967000" />
       <workItem from="1668390997464" duration="1733000" />
-      <workItem from="1668394332354" duration="7854000" />
+      <workItem from="1668394332354" duration="14138000" />
+      <workItem from="1668523619512" duration="3221000" />
+      <workItem from="1668561965669" duration="825000" />
+      <workItem from="1668562986099" duration="3536000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
@@ -94,14 +156,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="244" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1668401063291" />
-    <state x="596" y="133" key="FileChooserDialogImpl" timestamp="1668302006181">
+    <state x="596" y="133" key="FileChooserDialogImpl" timestamp="1668421769521">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="596" y="133" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1668302006181" />
-    <state x="222" y="39" key="SettingsEditor" timestamp="1668309626403">
+    <state x="596" y="133" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1668421769521" />
+    <state x="222" y="39" key="SettingsEditor" timestamp="1668561902142">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="222" y="39" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1668309626403" />
+    <state x="222" y="39" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1668561902142" />
     <state x="312" y="129" key="Vcs.Push.Dialog.v2" timestamp="1668401065960">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -110,9 +172,17 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="525" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1668389609134" />
-    <state x="561" y="204" width="841" height="630" key="find.popup" timestamp="1668405590582">
+    <state x="573" y="204" width="841" height="630" key="find.popup" timestamp="1668565449109">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="561" y="204" width="841" height="630" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1668405590582" />
+    <state x="573" y="204" width="841" height="630" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1668565449109" />
+    <state x="17" y="83" key="new project wizard" timestamp="1668419482930">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="17" y="83" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1668419482930" />
+    <state x="369" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1668562391657">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="369" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1668562391657" />
   </component>
 </project>
