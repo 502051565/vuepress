@@ -29,19 +29,27 @@ module.exports = [
     ]
   }
   , {
-    title: 'Docker',
+    title: 'Docker基础',
     collapsable: false,
     children: [
-      '/studynotes/project-management/Docker/Docker_introduction',
-      '/studynotes/project-management/Docker/Docker_install',
-      '/studynotes/project-management/Docker/Docker_Command',
-      '/studynotes/project-management/Docker/Docker_images_principle',
-      '/studynotes/project-management/Docker/Local_images_are_published_to_Alibaba_Cloud',
-      '/studynotes/project-management/Docker/Push_the_local_image_to_the_private_library',
-      '/studynotes/project-management/Docker/Docker_data_volume',
-      '/studynotes/project-management/Docker/Docker_Software_installation',
+      '/studynotes/project-management/Docker/1.Docker_introduction',
+      '/studynotes/project-management/Docker/2.Docker_install',
+      '/studynotes/project-management/Docker/3.Docker_Command',
+      '/studynotes/project-management/Docker/4.Docker_images_principle',
+      '/studynotes/project-management/Docker/5.Local_images_are_published_to_Alibaba_Cloud',
+      '/studynotes/project-management/Docker/6.Push_the_local_image_to_the_private_library',
+      '/studynotes/project-management/Docker/7.Docker_data_volume',
+      '/studynotes/project-management/Docker/8.Docker_Software_installation',
     ]
-  }, {
+  },
+  {
+    title: 'Docker高级',
+    collapsable: false,
+    children: [
+      '/studynotes/project-management/Docker/1.Docker_introduction',
+    ]
+  },
+  {
     title: 'Maven',
     collapsable: false,
     children: [

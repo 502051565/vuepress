@@ -2,77 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906171700723.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906171712584.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906171730541.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906171735509.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906172653451.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906173758427.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906180305240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-202009061909510.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906191548730.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200906191918904.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907101445496.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907101742198.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907110200658.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907154007333.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907155213701.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907160515237.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907164813426.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907165429502.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907170252742.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907170551586.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907181554550.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907181905163.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907192907516.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907193540976.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907193859513.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907194133618.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200907194401291.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908173203247.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908173405206.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908173557367.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908174439213.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908180640817.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908180937278.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908213319175.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20200908213359911.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221114165415295.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115135450558.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115135734115.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115140002924.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115141343114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115142628824.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115142749172.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115143014212.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115143139636.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115143337092.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115144719022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115145507783.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115150112156.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115151209041.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115161053281.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115163136330.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115163610729.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115163626670.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115165842904.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115170029656.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115171000102.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115171452703.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115172824447.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115174427788.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115174442807.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115180130279.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115214414003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115220159834.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115220810329.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115222130975.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115222438163.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets/image-20221115222631757.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/ShardingSphere_index_.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/1.Docker_introduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/20211120172307.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/20211120172327.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/20211120172455.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/20211120172720.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/20211120172738.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/20211120172745.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221117085039163.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221117095826612.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221117133721236.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221117135130612.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221117135422267.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221117150111227.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221117150317156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221117163426240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221117163848353.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221117163907435.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221117171149351.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221117172019784.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221117174012154.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221118100457901.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221118100836764.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221118100951888.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221118101218404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221118110513691.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221118111354676.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image-20221118111806703.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.104ml4c0mzn4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.14d1sdq1zk0w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.1dhfdk9cfh1c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.1t4n31w3b82o.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.1zbgqzzakxeo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.21qlt9t32ebk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.22vkerqfoi0w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.24ur8bklcyyo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.26vtegy9iack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.2eyaa1qewe80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.2fc62z4b02vw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.2k3leu2j7220.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.2pl4371jjmc0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.2qchilnl2di0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.2rka9swxxwg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.2ylgcekrxva0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.2zbxvbh9y2s0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.33l1vukec220.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.3b1ygz3skt80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.3ggtfvzruxk0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.3uzygclvkhu0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.44m96fv6jxo0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.47bmw2u4u7g0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.4ecsbpz8cro0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.4fq3ksgij3g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.4qmas1zt8z20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.4xh8wae98fk0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.4xklf0i3iy80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.50gkmh7ylm40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.55hqvoufnsw0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.5a1l9nfogv00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.5fb8d91n1o40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.5jk5akd0ka00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.5qzk2axr1kg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.6r4ofi9v9r80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.6rx8e7zvbnc0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.6x8g7kynigk0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.6xr5pco2z9c0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.6yr72dghxoc0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.6zaea6xum9k0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.7am4wi9y6vg0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.7cxtwgd9ems0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.7hh30r9dad40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.7hlezkqhyrs0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.grlmiuj89ig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.mo6n44962u8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.n12zxx92lls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.nzg3lx1r7y8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.ogz22mouas0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.wouw5m7r1bk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.x8qx98px48w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.x9xgkhb2rgw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/assets/image.y1hz6acpzgw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/1.Docker_introduction.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/nav.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/studynotes/database/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/database/sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/Docker_Command.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/3.Docker_Command.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/Docker_Software_installation.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/8.Docker_Software_installation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/Docker_data_volume.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/7.Docker_data_volume.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/Docker_images_principle.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/4.Docker_images_principle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/Docker_install.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/2.Docker_install.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/Docker_introduction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/Local_images_are_published_to_Alibaba_Cloud.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/5.Local_images_are_published_to_Alibaba_Cloud.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/Push_the_local_image_to_the_private_library.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker/6.Push_the_local_image_to_the_private_library.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/project-management/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/project-management/sidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,15 +111,19 @@
     </option>
   </component>
   <component name="ProjectId" id="2HTB9Wr4PxGGulPEJaTElYQK4kf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/studynotes/database/ShardingSphere/1.shardingjdbc.assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/studynotes/project-management/Docker2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -107,11 +132,27 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\studynotes\project-management\Docker2" />
       <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\studynotes\database\ShardingSphere\1.shardingjdbc.assets" />
       <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\studynotes\database\ShardingSphere" />
       <recent name="F:\2022_study\webcode\502051565.github.io-master" />
       <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\.vuepress\public\img" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -128,7 +169,9 @@
       <workItem from="1668394332354" duration="14138000" />
       <workItem from="1668523619512" duration="3221000" />
       <workItem from="1668561965669" duration="825000" />
-      <workItem from="1668562986099" duration="3536000" />
+      <workItem from="1668562986099" duration="5547000" />
+      <workItem from="1668579785478" duration="1367000" />
+      <workItem from="1668760466381" duration="3243000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
@@ -144,6 +187,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
@@ -172,10 +216,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="525" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1668389609134" />
-    <state x="573" y="204" width="841" height="630" key="find.popup" timestamp="1668565449109">
+    <state x="573" y="204" width="841" height="630" key="find.popup" timestamp="1668567422687">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="573" y="204" width="841" height="630" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1668565449109" />
+    <state x="573" y="204" width="841" height="630" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1668567422687" />
     <state x="17" y="83" key="new project wizard" timestamp="1668419482930">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

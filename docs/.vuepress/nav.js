@@ -114,7 +114,8 @@ module.exports = [{
       text: '部署',
       items: [
         { text: 'Linux', link: '/pages/99e9dc/' },
-        { text: 'Docker', link: '/pages/90cc29/' },
+        { text: 'Docker基础', link: '/pages/90cc29/' },
+        { text: 'Docker高级', link: '/pages/90ac28/' },
       ]
     }
     , {
