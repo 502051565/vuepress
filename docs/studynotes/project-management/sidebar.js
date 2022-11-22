@@ -48,6 +48,8 @@ module.exports = [
     children: [
       '/studynotes/project-management/Docker2/1.Docker_introduction_mysql_cluster',
       '/studynotes/project-management/Docker2/2.Docker_Dockerfile',
+      '/studynotes/project-management/Docker2/3.Docker_Service',
+      '/studynotes/project-management/Docker2/4.Docker_Network',
     ]
   },
   {
