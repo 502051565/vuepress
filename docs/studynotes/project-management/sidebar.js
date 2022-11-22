@@ -47,6 +47,7 @@ module.exports = [
     collapsable: false,
     children: [
       '/studynotes/project-management/Docker2/1.Docker_introduction_mysql_cluster',
+      '/studynotes/project-management/Docker2/2.Docker_Dockerfile',
     ]
   },
   {
