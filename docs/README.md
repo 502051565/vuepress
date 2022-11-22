@@ -24,7 +24,7 @@ pageClass: vdoing-index-class
 
 # 提交执行push-Src.sh里面的命令
 #git add -A
-# git commit -m ":wrench:commit:rocket:"
+# git commit -m "commit"
 # git push -f git@github.com:502051565/vuepress.git main
 
 # 执行发布执行：

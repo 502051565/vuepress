@@ -46,7 +46,7 @@ module.exports = [
     title: 'Docker高级',
     collapsable: false,
     children: [
-      '/studynotes/project-management/Docker/1.Docker_introduction',
+      '/studynotes/project-management/Docker2/1.Docker_introduction_mysql_cluster',
     ]
   },
   {
