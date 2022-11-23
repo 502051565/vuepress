@@ -50,6 +50,9 @@ module.exports = [
       '/studynotes/project-management/Docker2/2.Docker_Dockerfile',
       '/studynotes/project-management/Docker2/3.Docker_Service',
       '/studynotes/project-management/Docker2/4.Docker_Network',
+      '/studynotes/project-management/Docker2/5.Docker_compose',
+      '/studynotes/project-management/Docker2/6.Docker_Portainer',
+      '/studynotes/project-management/Docker2/7.Docker_CAdvisor_InfluxDB',
     ]
   },
   {

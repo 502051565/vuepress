@@ -2,37 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/3.Docker_Service.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/4.Docker_Network.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122190743012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122193642789.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122214447928.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122214644899.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122214759898.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122214956334.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122215417599.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122220522054.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122220547442.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122221446613.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122221632355.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122222310649.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122222457079.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122222535857.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122222904791.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122223228919.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122223319268.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122223442236.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122223521372.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122223903431.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122223927425.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122224008358.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122224258589.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122224508432.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122224533719.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122224542738.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122224836027.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122224940038.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221122224951290.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/5.Docker_compose.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/6.Docker_Portainer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/7.Docker_CAdvisor_InfluxDB.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123102831134.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123105537266.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123145234350.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123145416598.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123145433627.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123151119562.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123151230904.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123151306019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123151335161.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123151354666.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123151422394.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123152712642.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123152727613.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154200998.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154222332.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154236936.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154257644.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154315068.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154331453.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154355280.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154407157.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154420411.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154433978.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154444674.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154453725.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/studynotes/project-management/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/project-management/sidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,13 +77,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,7 +110,8 @@
       <workItem from="1668579785478" duration="1367000" />
       <workItem from="1668760466381" duration="7183000" />
       <workItem from="1669031331914" duration="96000" />
-      <workItem from="1669036297247" duration="9393000" />
+      <workItem from="1669036297247" duration="11680000" />
+      <workItem from="1669185383290" duration="3734000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
