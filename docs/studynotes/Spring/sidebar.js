@@ -85,12 +85,12 @@ module.exports = [
     title: 'Spring Security',
     collapsable: false,
     children: [
-      '/studynotes/Spring/SpringSecurity/SpringSecurity_summary',
-      '/studynotes/Spring/SpringSecurity/SpringSecurity_Getting_start',
-      '/studynotes/Spring/SpringSecurity/SpringSecurity_Login_authentication',
-      '/studynotes/Spring/SpringSecurity/SpringSecurity_authorize',
-      '/studynotes/Spring/SpringSecurity/SpringSecurity_Cross_domain',
-      '/studynotes/Spring/SpringSecurity/SpringSecurity_smallProblem',
+      '/studynotes/Spring/SpringSecurity/1.SpringSecurity_summary',
+      '/studynotes/Spring/SpringSecurity/2.SpringSecurity_Getting_start',
+      '/studynotes/Spring/SpringSecurity/3.SpringSecurity_Login_authentication',
+      '/studynotes/Spring/SpringSecurity/4.SpringSecurity_authorize',
+      '/studynotes/Spring/SpringSecurity/5.SpringSecurity_Cross_domain',
+      '/studynotes/Spring/SpringSecurity/6.SpringSecurity_smallProblem',
     ]
   }
 ]

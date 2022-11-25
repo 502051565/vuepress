@@ -2,35 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/5.Docker_compose.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/6.Docker_Portainer.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/7.Docker_CAdvisor_InfluxDB.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123102831134.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123105537266.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123145234350.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123145416598.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123145433627.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123151119562.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123151230904.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123151306019.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123151335161.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123151354666.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123151422394.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123152712642.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123152727613.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154200998.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154222332.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154236936.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154257644.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154315068.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154331453.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154355280.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154407157.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154420411.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154433978.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154444674.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/project-management/Docker2/assets/image-20221123154453725.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/studynotes/project-management/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/project-management/sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/1.SpringSecurity_summary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20211214151515385.32u2mx984b00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20211215095331510.43d5pe7vrii0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20211222110238165.52d070vliig0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221124112206181.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221124112359994.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221124141611262.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221124145120387.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221124164405778.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221125105132691.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221125105245788.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221125110658312.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221125131621406.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221125131735833.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221125131807028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221125142120862.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221125142250263.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221125143958756.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image-20221125144153552.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image.116fr50fds8w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image.1lobrlvzt50g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image.3b2cnga2p5e0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image.4w4wg4yh1i40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image.51h05zcdrr00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image.542jmv3f11o0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/assets/image.5njlxfjl6qs0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/SpringSecurity_Cross_domain.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/5.SpringSecurity_Cross_domain.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/SpringSecurity_Getting_start.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/2.SpringSecurity_Getting_start.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/SpringSecurity_Login_authentication.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/3.SpringSecurity_Login_authentication.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/SpringSecurity_authorize.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/4.SpringSecurity_authorize.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/SpringSecurity_smallProblem.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/6.SpringSecurity_smallProblem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/Spring/SpringSecurity/SpringSecurity_summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/Spring/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/Spring/sidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +64,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/studynotes/project-management/Docker2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../springSecurity/code/parentcode/securitydemo1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -75,21 +79,6 @@
       <recent name="F:\2022_study\webcode\502051565.github.io-master" />
       <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\.vuepress\public\img" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -111,7 +100,10 @@
       <workItem from="1668760466381" duration="7183000" />
       <workItem from="1669031331914" duration="96000" />
       <workItem from="1669036297247" duration="11680000" />
-      <workItem from="1669185383290" duration="3734000" />
+      <workItem from="1669185383290" duration="5154000" />
+      <workItem from="1669258998378" duration="239000" />
+      <workItem from="1669259257974" duration="2288000" />
+      <workItem from="1669356805052" duration="2130000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
@@ -140,10 +132,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="244" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1668401063291" />
-    <state x="596" y="133" key="FileChooserDialogImpl" timestamp="1669114539771">
+    <state x="596" y="133" key="FileChooserDialogImpl" timestamp="1669268566622">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="596" y="133" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1669114539771" />
+    <state x="596" y="133" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1669268566622" />
     <state x="222" y="39" key="SettingsEditor" timestamp="1668561902142">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
