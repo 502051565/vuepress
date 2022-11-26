@@ -18,8 +18,8 @@ module.exports = [
       '/studynotes/middleware/ElasticSearch/ElasticSearch_Framework_integration',
       '/studynotes/middleware/ElasticSearch/ElasticSearch_optimization',
       '/studynotes/middleware/ElasticSearch/ElasticSearch_Interview_questions'
-      
-      
+
+
 
     ]
   },{
@@ -65,7 +65,13 @@ module.exports = [
       '/studynotes/middleware/Dubbo/Dubbo_Geting_start',
       '/studynotes/middleware/Dubbo/Dubbo_Advanced_features',
     ]
+  },{
+    title:'常用框架-SSO',
+    collapsable: false,
+    children:[
+      '/studynotes/middleware/SSO/1.SSO_introduce',
+    ]
   }
- 
-  
+
+
 ]

@@ -29,7 +29,7 @@ module.exports = [
 
     ]
   }, {
-    title:'高级宝典',
+    title:'尚医通',
     collapsable: false,
     children:[
     '/baodian/high/SYT/SYT_project_introduct',
@@ -47,6 +47,13 @@ module.exports = [
     '/baodian/high/SYT/SYT_ali_oos',
     '/baodian/high/SYT/SYT_yygh'
     ]
+  }, {
+    title:'谷粒商城',
+    collapsable: false,
+    children:[
+    '/baodian/high/GLSC/1.glsc_project_introduct',
+    '/baodian/high/GLSC/2.glsc_environment_build',
+    ]
   }
-  
+
 ]

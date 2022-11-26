@@ -56,6 +56,12 @@ module.exports = [{
       items: [
         { text: 'Dubbo', link: '/pages/48771f/' },
       ]
+    },
+    {
+      text: '常用框架',
+      items: [
+        { text: 'SSO', link: '/pages/46271f/' },
+      ]
     }
 
   ]
@@ -132,7 +138,12 @@ module.exports = [{
   items: [
     { text: '力扣算法题', link: '/pages/40ee62/' },
     { text: '初级开发篇', link: '/pages/39558d/' },
-    { text: '中高进阶篇', link: '/pages/47c622/' },
+    { text: '中高进阶篇',
+      items: [
+        { text: '尚医通', link: '/pages/47c622/' },
+        { text: '谷粒商城', link: '/pages/29c8c2/' },
+      ]
+    },
 
   ]
 }, {
