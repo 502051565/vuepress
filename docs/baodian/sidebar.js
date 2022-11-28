@@ -56,6 +56,9 @@ module.exports = [
     '/baodian/high/GLSC/3.glsc_springcloud',
     '/baodian/high/GLSC/4.glsc_vue',
     '/baodian/high/GLSC/5.glsc_product_service',
+    '/baodian/high/GLSC/6.glsc_warehouse_service',
+    '/baodian/high/GLSC/7.glsc_elasticsearch',
+    '/baodian/high/GLSC/8.glsc_product_up.md',
     ]
   }
 

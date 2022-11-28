@@ -2,80 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/3.glsc_springcloud.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/4.glsc_vue.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/5.glsc_product_service.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221126231615754.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221126231635024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127132612552.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127133317006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127133405982.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127134420522.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127134523214.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127134640149.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127134919040.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127135634177.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127140527761.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127140737625.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127141019667.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127141122729.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127141246151.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127144443259.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/3.glsc_springcloud/image-20221127145226141.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/4.glsc_vue/1587746815353.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/4.glsc_vue/1587747283279.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/4.glsc_vue/1587748494597.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/4.glsc_vue/image-20200425090955705.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/4.glsc_vue/image-20200425091736505.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/4.glsc_vue/image-20200425094010008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/4.glsc_vue/image-20200425094247167.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/4.glsc_vue/image-20200425100629676.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/4.glsc_vue/image-20200425110048496.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/1588732021702.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/1588732152646.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/1588766303205.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/1588780868214.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/1588822997675.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200425153735737.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200425154348716.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200425164019287.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200425164201813.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200425164509143.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200425173615149.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200425192722821.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200425192902637.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200425193136641.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200425193523849.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200425193614185.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200425195437299.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200425213240724.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200426113003531.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200426115332899.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200426115420393.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428164054517.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428170325515.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428170437592.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428170644511.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428182755992.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428183041570.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428183213694.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428183644020.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428184029655.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428190532924.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428190553350.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428191518591.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428195507730.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200428224840535.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200429075831984.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200429111408164.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200429124629150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200429124940091.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200429183334783.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200429183748249.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200429191830967.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200430215649355.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/image-20200509083248660.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/5.glsc_product_service/p1472.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/6.glsc_warehouse_service.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/7.glsc_elasticsearch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/8.glsc_product_up.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501192629304.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501194449944.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501195619925.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501195732492.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501200048361.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501200132199.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501212224983.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501212924094.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501213047499.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501213130001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501214522818.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501214810741.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501214912607.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501215358666.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501215746139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501220559094.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501221105476.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501233938697.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502000221422.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502000733594.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502120921830.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502161339291.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502170924399.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502174825233.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502175901959.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502181432745.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502182929583.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200511074437763.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200511111618183.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200511112025327.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20221128104732787.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/high/GLSC/5.glsc_product_service.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/5.glsc_product_service.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/baodian/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/sidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,7 +123,7 @@
       <workItem from="1669258998378" duration="239000" />
       <workItem from="1669259257974" duration="2288000" />
       <workItem from="1669356805052" duration="9607000" />
-      <workItem from="1669455372392" duration="8251000" />
+      <workItem from="1669455372392" duration="12928000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
