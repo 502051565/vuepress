@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/6.glsc_warehouse_service.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/7.glsc_elasticsearch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/8.glsc_product_up.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501192629304.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501194449944.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501195619925.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501195732492.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501200048361.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501200132199.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501212224983.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501212924094.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501213047499.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501213130001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501214522818.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501214810741.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501214912607.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501215358666.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501215746139.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501220559094.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501221105476.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200501233938697.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502000221422.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502000733594.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502120921830.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502161339291.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502170924399.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502174825233.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502175901959.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502181432745.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200502182929583.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200511074437763.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200511111618183.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20200511112025327.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/7.glsc_elasticsearch/image-20221128104732787.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/GLSC/5.glsc_product_service.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/5.glsc_product_service.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/high/GLSC/8.glsc_product_up.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/8.glsc_product_up.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/baodian/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/sidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +89,7 @@
       <workItem from="1669258998378" duration="239000" />
       <workItem from="1669259257974" duration="2288000" />
       <workItem from="1669356805052" duration="9607000" />
-      <workItem from="1669455372392" duration="12928000" />
+      <workItem from="1669455372392" duration="15508000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
@@ -156,6 +122,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="593" y="187" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1669457045448" />
+    <state x="424" y="142" key="IDE.errors.dialog" timestamp="1669636004576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="424" y="142" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1669636004576" />
     <state x="445" y="53" key="SettingsEditor" timestamp="1669455413546">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -168,10 +138,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="525" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1668389609134" />
-    <state x="573" y="204" width="841" height="630" key="find.popup" timestamp="1669439399469">
+    <state x="573" y="204" width="841" height="630" key="find.popup" timestamp="1669629889353">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="573" y="204" width="841" height="630" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1669439399469" />
+    <state x="573" y="204" width="841" height="630" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1669629889353" />
     <state x="104" y="72" key="new project wizard" timestamp="1669114552822">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
