@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/GLSC/8.glsc_product_up.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/8.glsc_product_up.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/10.glsc_cache_redisson.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/9.glsc_pressure_test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/10.glsc_cache_redisson/20210403173805154.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/10.glsc_cache_redisson/image-20221129140450239.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/10.glsc_cache_redisson/image-20221129140523733.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/10.glsc_cache_redisson/image-20221129153424175.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/10.glsc_cache_redisson/image-20221129155226969.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/10.glsc_cache_redisson/image-20221129155242746.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129101834273.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129102620938.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129102735541.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129102906556.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129103035915.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129103356388.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129103718456.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129103814996.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129111920667.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/baodian/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/sidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,15 +67,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,7 +103,8 @@
       <workItem from="1669258998378" duration="239000" />
       <workItem from="1669259257974" duration="2288000" />
       <workItem from="1669356805052" duration="9607000" />
-      <workItem from="1669455372392" duration="15508000" />
+      <workItem from="1669455372392" duration="17132000" />
+      <workItem from="1669692985667" duration="2742000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>

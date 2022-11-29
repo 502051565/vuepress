@@ -59,6 +59,8 @@ module.exports = [
     '/baodian/high/GLSC/6.glsc_warehouse_service',
     '/baodian/high/GLSC/7.glsc_elasticsearch',
     '/baodian/high/GLSC/8.glsc_product_up',
+    '/baodian/high/GLSC/9.glsc_pressure_test',
+    '/baodian/high/GLSC/10.glsc_cache_redisson',
     ]
   }
 
