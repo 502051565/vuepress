@@ -2,23 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/10.glsc_cache_redisson.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/9.glsc_pressure_test.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/10.glsc_cache_redisson/20210403173805154.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/10.glsc_cache_redisson/image-20221129140450239.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/10.glsc_cache_redisson/image-20221129140523733.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/10.glsc_cache_redisson/image-20221129153424175.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/10.glsc_cache_redisson/image-20221129155226969.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/10.glsc_cache_redisson/image-20221129155242746.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129101834273.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129102620938.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129102735541.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129102906556.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129103035915.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129103356388.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129103718456.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129103814996.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/9.glsc_pressure_test/image-20221129111920667.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/11.glsc_search_service.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/12.glsc_auth_service.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/11.glsc_search_service/1618670350838-582141e3-f304-4c4c-91d8-3ed4f91be052.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1619091509159-2c31fef2-55e9-4197-b4bf-085d52cafb65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1619091593302-b7b98416-f5cb-4d31-a001-1a2e7ec11679.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1619092355766-762c4eb4-b4d2-409e-9700-cb813c0f60f6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1619093790227-2b9190c5-c40d-4c77-809f-b76662fe5ef4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1619248463645-e2484f6a-17a1-4468-8c7e-89d80dcf4e09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1619248508882-07c9dbbc-d78c-4615-aa48-07a4b6630307.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1619248648965-66f21622-1fa1-42a2-a0f4-17deb882cfcc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1619249742845-2efffb17-ce70-43c4-a35e-19e2912f7e59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1619865588369-2678e26b-0552-4d74-a43d-625123830f17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1619869698249-e5700bbd-45a1-4213-bf24-00e1512a52ae.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1620389591074-2418d369-493f-4194-9ce0-a3aa7b9fd532.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1620390067762-1efaed64-a432-4ba1-b1ae-b783808dfd0c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1620650409677-0308820b-3621-4364-a198-9e2fb11bf9dc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1620650834542-f0a8cd6c-f60b-4040-ba04-7df375c747a7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1620650872790-56c092a2-fdfd-4431-81b5-889d2e5dfe37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1620650906562-303c9a7a-fec7-4dd0-b8e3-ce5ef31233bc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1621678827735-65a003c7-4347-4b66-8eb2-398cc9f582c7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/12.glsc_auth_service/1621688335508-22964e16-b818-4c06-b74a-7aa168e31711.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/baodian/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/sidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +108,7 @@
       <workItem from="1669259257974" duration="2288000" />
       <workItem from="1669356805052" duration="9607000" />
       <workItem from="1669455372392" duration="17132000" />
-      <workItem from="1669692985667" duration="2742000" />
+      <workItem from="1669692985667" duration="5843000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
@@ -133,6 +137,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="244" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1668401063291" />
+    <state x="187" y="118" width="1127" height="591" key="DiffContextDialog" timestamp="1669711861594">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="187" y="118" width="1127" height="591" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1669711861594" />
     <state x="593" y="187" key="FileChooserDialogImpl" timestamp="1669457045448">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

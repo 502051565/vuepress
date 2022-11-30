@@ -61,6 +61,8 @@ module.exports = [
     '/baodian/high/GLSC/8.glsc_product_up',
     '/baodian/high/GLSC/9.glsc_pressure_test',
     '/baodian/high/GLSC/10.glsc_cache_redisson',
+    '/baodian/high/GLSC/11.glsc_search_service',
+    '/baodian/high/GLSC/12.glsc_auth_service',
     ]
   }
 
