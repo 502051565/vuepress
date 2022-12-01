@@ -28,26 +28,28 @@ module.exports = [
     '/baodian/zero/reggie_Cache_optimization'
 
     ]
-  }, {
-    title:'尚医通',
-    collapsable: false,
-    children:[
-    '/baodian/high/SYT/SYT_project_introduct',
-    '/baodian/high/SYT/SYT_build_environment',
-    '/baodian/high/SYT/SYT_HospitalSet',
-    '/baodian/high/SYT/SYT_front',
-    '/baodian/high/SYT/SYT_dataDict',
-    '/baodian/high/SYT/SYT_MongoDB',
-    '/baodian/high/SYT/SYT_dataInterface',
-    '/baodian/high/SYT/SYT_Background_system',
-    '/baodian/high/SYT/SYT_gateway',
-    '/baodian/high/SYT/SYT_client',
-    '/baodian/high/SYT/SYT_phoneLogin',
-    '/baodian/high/SYT/SYT_wechatLogin',
-    '/baodian/high/SYT/SYT_ali_oos',
-    '/baodian/high/SYT/SYT_yygh'
-    ]
-  }, {
+  },
+  // {
+  //   title:'尚医通',
+  //   collapsable: false,
+  //   children:[
+  //   '/baodian/high/SYT/SYT_project_introduct',
+  //   '/baodian/high/SYT/SYT_build_environment',
+  //   '/baodian/high/SYT/SYT_HospitalSet',
+  //   '/baodian/high/SYT/SYT_front',
+  //   '/baodian/high/SYT/SYT_dataDict',
+  //   '/baodian/high/SYT/SYT_MongoDB',
+  //   '/baodian/high/SYT/SYT_dataInterface',
+  //   '/baodian/high/SYT/SYT_Background_system',
+  //   '/baodian/high/SYT/SYT_gateway',
+  //   '/baodian/high/SYT/SYT_client',
+  //   '/baodian/high/SYT/SYT_phoneLogin',
+  //   '/baodian/high/SYT/SYT_wechatLogin',
+  //   '/baodian/high/SYT/SYT_ali_oos',
+  //   '/baodian/high/SYT/SYT_yygh'
+  //   ]
+  // },
+  {
     title:'谷粒商城',
     collapsable: false,
     children:[
@@ -63,6 +65,9 @@ module.exports = [
     '/baodian/high/GLSC/10.glsc_cache_redisson',
     '/baodian/high/GLSC/11.glsc_search_service',
     '/baodian/high/GLSC/12.glsc_auth_service',
+    '/baodian/high/GLSC/13.glsc_cart_service',
+    '/baodian/high/GLSC/14.glsc_sentinel',
+    '/baodian/high/GLSC/15.glsc_zipkin',
     ]
   }
 
