@@ -32,3 +32,5 @@ pageClass: vdoing-index-class
 # npm run deploy
 
 
+# idea 配置md文件
+# https://www.jianshu.com/p/101f3aa67465

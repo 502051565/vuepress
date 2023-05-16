@@ -63,6 +63,11 @@ module.exports = [
     children:[
       '/baodian/high/FBS/1.fbs_introduce',
       '/baodian/high/FBS/2.network_introduce',
+      '/baodian/high/FBS/3.design_introduce',
+      '/baodian/high/FBS/4.maven_introduce',
+      '/baodian/high/FBS/5.es_introduce',
+      '/baodian/high/FBS/6.tomcat_introduce',
+      '/baodian/high/FBS/7.git_introduce',
     ]
   },
   {

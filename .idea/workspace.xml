@@ -2,32 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/1_java_base.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515154934386.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515164533369.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515164857064.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515165513766.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515165806363.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515170004561.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515170653646.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515170800057.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230516085656122.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230516092213716.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230516092853666.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230516093127618.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230516093300455.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230516093655268.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.assets/image-20230516104353280.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.assets/image-20230516104524453.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.assets/image-20230516104744475.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/3.design_introduce.assets/image-20230516135845410.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/3.design_introduce.assets/image-20230516135928805.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/4.maven_introduce.assets/image-20230516142458637.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/4.maven_introduce.assets/image-20230516142536377.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/4.maven_introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/5.es_introduce.assets/image-20230516151144054.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/5.es_introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.assets/image-20230516152404950.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.assets/image-20230516152520141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.assets/image-20230516152638339.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.assets/image-20230516152912800.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/7.git_introduce.assets/image-20230516153535141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/7.git_introduce.assets/image-20230516153648986.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/7.git_introduce.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/nav.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/baodian/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/sidebar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/studynotes/Friendship_links.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/Friendship_links.md" afterDir="false" />
     </list>
@@ -42,7 +35,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="F:/work/apache-maven-3.6.3" />
+        <option name="mavenHome" value="D:\soft\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="F:\work\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -64,7 +57,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -78,19 +71,6 @@
       <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\studynotes\middleware" />
       <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\studynotes\project-management\Docker2" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -119,7 +99,8 @@
       <workItem from="1669455372392" duration="17132000" />
       <workItem from="1669692985667" duration="12646000" />
       <workItem from="1669886317762" duration="1144000" />
-      <workItem from="1684114971735" duration="15573000" />
+      <workItem from="1684114971735" duration="16134000" />
+      <workItem from="1684207545796" duration="7832000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
@@ -140,17 +121,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="245" y="10" key="SettingsEditor" timestamp="1684202822266">
+    <state x="120" y="104" width="1126" height="525" key="DiffContextDialog" timestamp="1684227008609">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="245" y="10" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1684202822266" />
-    <state x="447" y="131" width="596" height="536" key="find.popup" timestamp="1684202307936">
+    <state x="120" y="104" width="1126" height="525" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1684227008609" />
+    <state x="220" y="27" key="SettingsEditor" timestamp="1684215800211">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="447" y="131" width="596" height="536" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1684202307936" />
-    <state x="350" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1684119390452">
+    <state x="220" y="27" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1684215800211" />
+    <state x="275" y="115" key="Vcs.Push.Dialog.v2" timestamp="1684215493739">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="350" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1684119390452" />
+    <state x="275" y="115" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1684215493739" />
+    <state x="120" y="104" width="1126" height="525" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1684227008609">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="120" y="104" width="1126" height="525" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1684227008609" />
+    <state x="447" y="131" width="596" height="602" key="find.popup" timestamp="1684224727946">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="447" y="131" width="596" height="602" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1684224727946" />
+    <state x="350" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1684215835460">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="350" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1684215835460" />
   </component>
 </project>

@@ -47,11 +47,11 @@ tags:
   avatar: https://blog.gmcj0816.top/img/SeriousWission_TouXiangPic.jpg
   link: https://blog.gmcj0816.top/
   bgColor: '#CBEAFA'
-  link: https://frxcat.fun/
-  bgColor: '#CBEAFA'
 - name:  xustudyxu
   desc: 一起学习编程!
   avatar: https://cdn.staticaly.com/gh/xustudyxu/image-hosting@master/20220627/mmexport1656324824543.124zxwkqyzlc.webp
+  link: https://frxcat.fun/
+  bgColor: '#CBEAFA'
 ```
 
 :::
