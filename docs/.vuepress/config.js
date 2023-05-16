@@ -54,7 +54,7 @@ module.exports = {
     repo: '/502051565/vuepress',
     // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
     // "GitHub"/"GitLab"/"Bitbucket" 其中之一，或是 "Source"。
-    repoLabel: '查看源码',
+    // repoLabel: '查看源码',
 
     // 以下为可选的编辑链接选项
     // 以下为可选的编辑链接选项
@@ -87,11 +87,11 @@ module.exports = {
           title: '发邮件',
           link: 'mailto:502051565@qq.com',
         },
-        {
-          iconClass: 'icon-github',
-          title: 'GitHub',
-          link: 'https://github.com/502051565',
-        },
+        // {
+        //   iconClass: 'icon-github',
+        //   title: 'GitHub',
+        //   link: 'https://github.com/502051565',
+        // },
         {
           iconClass: 'icon-weixin',
           title: '微信',

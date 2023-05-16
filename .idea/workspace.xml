@@ -2,63 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/13.glsc_cart_service.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/14.glsc_sentinel.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/15.glsc_zipkin.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/13.glsc_cart_service/20210105203348630.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/13.glsc_cart_service/20210105205747333.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/13.glsc_cart_service/20210106105405906.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/13.glsc_cart_service/20210106201512855.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/13.glsc_cart_service/20210107092315879.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/13.glsc_cart_service/20210107093744788.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/13.glsc_cart_service/image-20221130165240136.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/13.glsc_cart_service/image-20221201113303654.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/04f864b480ebace7994a8547041ccf66.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/06ea0d11bd9608ca7979a30aff37063a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/0a1efb772b43f1dd63df6a6e13cc3e23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/10ea7ca2be835aee57e55897d4d0ff4e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/182f227d0a5d14e04e8b9e2a1323aea7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/1ab6478584061940fcefdb964e386e17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/26a723ce4e33374453252a8533362883.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/3e6c8c8a3c7b7fe8f3b88371f2423c77.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/3ef8adc5a66b56e2e9a22cf70aea423e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/40f73f1c8d3ab26dcc58cfba2a069279.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/46996013b4a2386c203f847d19d7a7eb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/48ac49657193d318474ea39c0991e61f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/4a5d15e9b86cfe770a11d5c74e4cf0ee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/4f9fbe909aef992b3c239d7983366682.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/5086dc1e0b09e618bec059cb9a1a64ba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/590075a1ce0b0efdf18f9107db129e55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/5ee51763668b74e88e5e0ec1c088e197.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/670db632b3c896cb814e9df0e6ea3a27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/684c01d1d638657b9999b3137f155449.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/68c1f16940c5bc397b481dee7b3ee6a0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/7118487ac9267f941a8998b6548390a8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/94c3c52d2c7248624a049223e4d99df2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/9c0c260131fe452771802df5978ea2db.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/a257033ba07a48551ab168b206dca931.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/abe52cf4fc404ba64cb59dfdfd1b7682.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/ae290d5a90eab287411f55095484f0e2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/ae75db120df5f5777ce7c8b7cc124a22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/af8fd077f236bbb35f28158069fcf328.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/c436cbf2fb8daebfca8fda81a8377d49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/c69e4f9b854e9a054085f1a2ba6d6e2c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/cb5073ebbb4eaf1d1b51c770bf191aa4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/d96ab14ddf4a5ef33e1a7439b03a24bc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/e2a227b4e5f14c4535c2b146c79a40f4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/e3a12ee5182daa18d387f3272c728743.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/e4ae91d42d1d7aac5367e5b856b00850.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/e5b588de79a4fe5c5fb414af4e9c0f25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/ea37894ebb8586a735940e8acb37320d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/14.glsc_sentinel/fffbcd5a429dce6d56989ec578eedad5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/15.glsc_zipkin/10d0b2fcd132c85fe15e20f1b8efb298.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/15.glsc_zipkin/3e3eadafbf76eeffa550a8987a13c82c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/15.glsc_zipkin/59dec5f8f0b24ac1e9ce29d456340b0d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/15.glsc_zipkin/dfdb6a582dda921364a2afb0bf6a1b98.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/GLSC/assets/15.glsc_zipkin/f2175c78d9b9a350814462b84cae8874.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/Twikoo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/Twikoo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/1_java_base.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515154934386.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515164533369.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515164857064.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515165513766.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515165806363.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515170004561.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515170653646.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230515170800057.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230516085656122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230516092213716.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230516092853666.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230516093127618.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230516093300455.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230516093655268.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.assets/image-20230516104353280.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.assets/image-20230516104524453.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.assets/image-20230516104744475.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/baodian/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/Friendship_links.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/Friendship_links.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +42,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="F:\work\apache-maven-3.6.3" />
+        <option name="mavenHome" value="F:/work/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="F:\work\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -89,21 +60,37 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/baodian/high/GLSC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/baodian/high" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspacesLwy\vuepress\docs\baodian\high\FBS" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspacesLwy\vuepress\docs\baodian\high" />
+      <recent name="D:\workspacesLwy\vuepress\docs\baodian\base" />
       <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\baodian\high\GLSC" />
       <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\studynotes\middleware" />
       <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\studynotes\project-management\Docker2" />
-      <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\studynotes\database\ShardingSphere\1.shardingjdbc.assets" />
-      <recent name="F:\2022_study\webcode\502051565.github.io-master\docs\studynotes\database\ShardingSphere" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -132,6 +119,7 @@
       <workItem from="1669455372392" duration="17132000" />
       <workItem from="1669692985667" duration="12646000" />
       <workItem from="1669886317762" duration="1144000" />
+      <workItem from="1684114971735" duration="15573000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
@@ -152,49 +140,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="260" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668393812210">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="245" y="10" key="SettingsEditor" timestamp="1684202822266">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="260" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1668393812210" />
-    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1668401063291">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="245" y="10" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1684202822266" />
+    <state x="447" y="131" width="596" height="536" key="find.popup" timestamp="1684202307936">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1668401063291" />
-    <state x="187" y="118" width="1127" height="591" key="DiffContextDialog" timestamp="1669711861594">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="447" y="131" width="596" height="536" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1684202307936" />
+    <state x="350" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1684119390452">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="187" y="118" width="1127" height="591" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1669711861594" />
-    <state x="593" y="187" key="FileChooserDialogImpl" timestamp="1669457045448">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="593" y="187" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1669457045448" />
-    <state x="424" y="142" key="IDE.errors.dialog" timestamp="1669636004576">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="424" y="142" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1669636004576" />
-    <state x="445" y="53" key="SettingsEditor" timestamp="1669455413546">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="445" y="53" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1669455413546" />
-    <state x="312" y="129" key="Vcs.Push.Dialog.v2" timestamp="1668401065960">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="312" y="129" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1668401065960" />
-    <state x="525" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1668389609134">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="525" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1668389609134" />
-    <state x="573" y="204" width="841" height="630" key="find.popup" timestamp="1669886458585">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="573" y="204" width="841" height="630" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1669886458585" />
-    <state x="104" y="72" key="new project wizard" timestamp="1669114552822">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="104" y="72" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1669114552822" />
-    <state x="369" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1669799380091">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="369" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1669799380091" />
+    <state x="350" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1684119390452" />
   </component>
 </project>

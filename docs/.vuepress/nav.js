@@ -137,10 +137,11 @@ module.exports = [{
   text: '面试',
   items: [
     { text: '力扣算法题', link: '/pages/40ee62/' },
-    { text: '初级开发篇', link: '/pages/39558d/' },
-    { text: '中高进阶篇',
+    { text: '基础开发篇', link: '/pages/39559d/' },
+    { text: '进阶篇',
       items: [
         // { text: '尚医通', link: '/pages/47c622/' },
+        { text: '中高进阶篇', link: '/pages/60k8c2/' },
         { text: '谷粒商城', link: '/pages/29c8c2/' },
       ]
     },

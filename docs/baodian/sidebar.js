@@ -6,29 +6,37 @@ module.exports = [
     '/baodian/LeetCode/easy_',
     ]
   },{
-    title:'SSM-CRUD',
+    title:'基础开发篇',
     collapsable: false,
     children:[
-    '/baodian/zero/SSM-CRUD',
+    '/baodian/base/1_java_base',
 
     ]
   },
-  {
-    title:'SpringBoot+MyBatis-plus',
-    collapsable: false,
-    children:[
-    '/baodian/zero/reggie',
-    '/baodian/zero/reggie_Employee_management',
-    '/baodian/zero/reggie_Classified_management',
-    '/baodian/zero/reggie_Dish_management',
-    '/baodian/zero/reggie_set_meal',
-    '/baodian/zero/reggie_Mobile_terminal_development',
-    '/baodian/zero/Mobile_terminal_business_development',
-    '/baodian/zero/reggie_Functional_supplement',
-    '/baodian/zero/reggie_Cache_optimization'
-
-    ]
-  },
+  // {
+  //   title:'SSM-CRUD',
+  //   collapsable: false,
+  //   children:[
+  //     '/baodian/zero/SSM-CRUD',
+  //
+  //   ]
+  // },
+  // {
+  //   title:'SpringBoot+MyBatis-plus',
+  //   collapsable: false,
+  //   children:[
+  //   '/baodian/zero/reggie',
+  //   '/baodian/zero/reggie_Employee_management',
+  //   '/baodian/zero/reggie_Classified_management',
+  //   '/baodian/zero/reggie_Dish_management',
+  //   '/baodian/zero/reggie_set_meal',
+  //   '/baodian/zero/reggie_Mobile_terminal_development',
+  //   '/baodian/zero/Mobile_terminal_business_development',
+  //   '/baodian/zero/reggie_Functional_supplement',
+  //   '/baodian/zero/reggie_Cache_optimization'
+  //
+  //   ]
+  // },
   // {
   //   title:'尚医通',
   //   collapsable: false,
@@ -49,6 +57,14 @@ module.exports = [
   //   '/baodian/high/SYT/SYT_yygh'
   //   ]
   // },
+  {
+    title:'中高进阶篇',
+    collapsable: false,
+    children:[
+      '/baodian/high/FBS/1.fbs_introduce',
+      '/baodian/high/FBS/2.network_introduce',
+    ]
+  },
   {
     title:'谷粒商城',
     collapsable: false,
