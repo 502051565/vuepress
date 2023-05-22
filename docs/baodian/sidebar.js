@@ -9,7 +9,11 @@ module.exports = [
     title:'基础开发篇',
     collapsable: false,
     children:[
-    '/baodian/base/1_java_base',
+      '/baodian/base/1_java_base',
+      '/baodian/base/2_linux',
+      '/baodian/base/3_mq',
+      '/baodian/base/4_nginx',
+      '/baodian/base/5_dubbo',
 
     ]
   },
@@ -68,6 +72,9 @@ module.exports = [
       '/baodian/high/FBS/5.es_introduce',
       '/baodian/high/FBS/6.tomcat_introduce',
       '/baodian/high/FBS/7.git_introduce',
+      '/baodian/high/FBS/8.redis_introduce',
+      '/baodian/high/FBS/9.zookeeper_introduce',
+      '/baodian/high/FBS/10.springcloud_introduce',
     ]
   },
   {

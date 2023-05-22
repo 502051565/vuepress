@@ -2,27 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/3.design_introduce.assets/image-20230516135845410.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/3.design_introduce.assets/image-20230516135928805.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/4.maven_introduce.assets/image-20230516142458637.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/4.maven_introduce.assets/image-20230516142536377.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/4.maven_introduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/5.es_introduce.assets/image-20230516151144054.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/5.es_introduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.assets/image-20230516152404950.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.assets/image-20230516152520141.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.assets/image-20230516152638339.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.assets/image-20230516152912800.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/7.git_introduce.assets/image-20230516153535141.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/7.git_introduce.assets/image-20230516153648986.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/7.git_introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/2_linux.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/3_mq.assets/image-20230522140632798.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/3_mq.assets/image-20230522140724363.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/3_mq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/4_nginx.assets/image-20230522142139823.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/4_nginx.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522143955226.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522144030299.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522144206708.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522144317117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522144423242.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522144443035.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522144756936.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.assets/image-20230522145727203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.assets/image-20230522145800289.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.assets/image-20230516172025465.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.assets/image-20230517094957979.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230519102756049.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230519102903284.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230519102954838.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230519103038690.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230519103342842.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230522102953137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230522103218154.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230522103605644.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230522103916135.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230522104410537.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230522104643445.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/baodian/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/sidebar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/studynotes/Friendship_links.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/Friendship_links.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +113,8 @@
       <workItem from="1669692985667" duration="12646000" />
       <workItem from="1669886317762" duration="1144000" />
       <workItem from="1684114971735" duration="16134000" />
-      <workItem from="1684207545796" duration="7832000" />
+      <workItem from="1684207545796" duration="11035000" />
+      <workItem from="1684722228580" duration="6163000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
