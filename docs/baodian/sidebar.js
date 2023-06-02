@@ -14,6 +14,12 @@ module.exports = [
       '/baodian/base/3_mq',
       '/baodian/base/4_nginx',
       '/baodian/base/5_dubbo',
+      '/baodian/base/6_mysql',
+      '/baodian/base/7_springboot',
+      '/baodian/base/8_mybatis',
+      '/baodian/base/9_spring',
+      '/baodian/base/10_thread',
+      '/baodian/base/11_jvm',
 
     ]
   },

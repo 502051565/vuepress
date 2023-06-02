@@ -2,39 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/2_linux.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/3_mq.assets/image-20230522140632798.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/3_mq.assets/image-20230522140724363.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/3_mq.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/4_nginx.assets/image-20230522142139823.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/4_nginx.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522143955226.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522144030299.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522144206708.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522144317117.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522144423242.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522144443035.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.assets/image-20230522144756936.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.assets/image-20230522145727203.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.assets/image-20230522145800289.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.assets/image-20230516172025465.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.assets/image-20230517094957979.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230519102756049.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230519102903284.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230519102954838.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230519103038690.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230519103342842.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230522102953137.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230522103218154.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230522103605644.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230522103916135.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230522104410537.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230522104643445.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/10_thread.assets/image-20230601145116225.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/10_thread.assets/image-20230601145234193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/10_thread.assets/image-20230601150100054.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/10_thread.assets/image-20230601150816546.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/10_thread.assets/image-20230601150941658.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/10_thread.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601152031132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601152154526.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601152230127.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601152310973.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601152355785.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601152437035.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601152511825.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601152616465.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601152703722.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601152738195.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601152814017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601153244249.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601153601590.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601154244878.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601154330193.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601154402675.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601154558305.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601154652968.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601160726809.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601160858830.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601161109521.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.assets/image-20230601161145153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/1_java_base.assets/image-20230601161849551.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/1_java_base.assets/image-20230601172120440.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/1_java_base.assets/image-20230601172215892.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/6_mysql.assets/image-20230523104730037.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/6_mysql.assets/image-20230523104812926.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/6_mysql.assets/image-20230523110327522.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/6_mysql.assets/image-20230523110355721.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/6_mysql.assets/image-20230523111146775.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/6_mysql.assets/image-20230523112229087.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/6_mysql.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/7_springboot.assets/image-20230523135511341.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/7_springboot.assets/image-20230523135639926.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/7_springboot.assets/image-20230524165255017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/7_springboot.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/8_mybatis.assets/image-20230524171518831.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/8_mybatis.assets/image-20230524171601113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/8_mybatis.assets/image-20230524171636296.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/8_mybatis.assets/image-20230530142238996.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/8_mybatis.assets/image-20230530143503126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/8_mybatis.assets/image-20230530143739545.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/8_mybatis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/9_spring.assets/image-20230530144518322.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/9_spring.assets/image-20230530145127003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/9_spring.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/base/1_java_base.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/1_java_base.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/baodian/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/sidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +136,9 @@
       <workItem from="1669886317762" duration="1144000" />
       <workItem from="1684114971735" duration="16134000" />
       <workItem from="1684207545796" duration="11035000" />
-      <workItem from="1684722228580" duration="6163000" />
+      <workItem from="1684722228580" duration="7926000" />
+      <workItem from="1684894726949" duration="2152000" />
+      <workItem from="1685328687806" duration="6061000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
@@ -151,6 +175,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="120" y="104" width="1126" height="525" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1684227008609" />
+    <state x="486" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1685672101831">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="486" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1685672101831" />
     <state x="447" y="131" width="596" height="602" key="find.popup" timestamp="1684224727946">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
