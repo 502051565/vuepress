@@ -137,7 +137,7 @@ module.exports = [{
   text: '面试',
   items: [
     { text: '力扣算法题', link: '/pages/40ee62/' },
-    { text: '基础开发篇', link: '/pages/39559d/' },
+    { text: '基础开发篇', link: '/pages/39659d/' },
     { text: '进阶篇',
       items: [
         // { text: '尚医通', link: '/pages/47c622/' },

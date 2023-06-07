@@ -2,34 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230606095250036.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230606095906784.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230606095929231.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.assets/image-20230605112455207.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.assets/image-20230605112529428.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.assets/image-20230606085035018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.assets/image-20230606085157393.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.assets/image-20230606085334271.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.assets/image-20230606092856741.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.assets/image-20230606093137037.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/5.es_introduce.assets/image-20230605162649154.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/5.es_introduce.assets/image-20230605162722372.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/7.git_introduce.assets/image-20230605153916242.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.assets/image-20230605141418910.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/studynotes/mdUse.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/baodian/base/1_java_base - 副本.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.assets/image-20230516093655268.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/base/10_thread.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/10_thread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/base/11_jvm.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/base/1_java_base.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/1_java_base.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/base/2_linux.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/2_linux.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/base/3_mq.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/3_mq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/base/4_nginx.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/4_nginx.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/5_dubbo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/base/6_mysql.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/6_mysql.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/base/7_springboot.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/7_springboot.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/base/8_mybatis.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/8_mybatis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/base/9_spring.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/9_spring.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/3.design_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/3.design_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/4.maven_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/4.maven_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/5.es_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/5.es_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/7.git_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/7.git_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/studynotes/middleware/ElasticSearch/RabbitMQ_Other_knowledge_points.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +99,7 @@
       <workItem from="1684722228580" duration="7926000" />
       <workItem from="1684894726949" duration="2152000" />
       <workItem from="1685328687806" duration="8510000" />
-      <workItem from="1685925432271" duration="9128000" />
+      <workItem from="1685925432271" duration="16840000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
@@ -132,6 +120,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="225" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1686018287622">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="225" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1686018287622" />
     <state x="153" y="0" key="CommitChangelistDialog2" timestamp="1685686188371">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -156,13 +148,25 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="486" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1685672101831" />
-    <state x="447" y="131" width="596" height="602" key="find.popup" timestamp="1685930124940">
+    <state x="288" y="136" width="596" height="602" key="find.popup" timestamp="1686105532139">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="447" y="131" width="596" height="602" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1685930124940" />
+    <state x="288" y="136" width="596" height="602" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1686105532139" />
     <state x="350" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1684215835460">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="350" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1684215835460" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/docs/.vuepress/config.js</url>
+          <line>37</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
