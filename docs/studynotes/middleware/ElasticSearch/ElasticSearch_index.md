@@ -15,11 +15,11 @@ tags:
 
 ### 下载软件
 
-Elasticsearch 的官方地址：https://www.elastic.co/cn/
+>  Elasticsearch 的官方地址：https://www.elastic.co/cn/
 
-Elasticsearch 最新的版本是 7.11.2（截止 2021.3.10），我们选择 7.8.0 版本（最新版本半年前的版本）
+> Elasticsearch 最新的版本是 7.11.2（截止 2021.3.10），我们选择 7.8.0 版本（最新版本半年前的版本）
 
-下载地址：https://www.elastic.co/cn/downloads/past-releases#elasticsearch![image](https://cdn.staticaly.com/gh/xustudyxu/image-hosting@master/20220628/image.27e4pq25bt34.webp)
+> 下载地址：https://www.elastic.co/cn/downloads/past-releases#elasticsearch![image](https://cdn.staticaly.com/gh/xustudyxu/image-hosting@master/20220628/image.27e4pq25bt34.webp)
 
 Elasticsearch 分为 Linux 和 Windows 版本，基于我们主要学习的是 Elasticsearch 的 Java客户端的使用，所以课程中使用的是安装较为简便的 Windows 版本。
 
@@ -39,13 +39,13 @@ Windows 版的 Elasticsearch 的安装很简单，解压即安装完毕，解压
 | moudules | 模块目录       |
 | plugins  | 插件目录       |
 
-解压后，进入 bin 文件目录，点击 elasticsearch.bat 文件启动 ES 服务
+> 解压后，进入 bin 文件目录，点击 elasticsearch.bat 文件启动 ES 服务
 
 ![image](https://cdn.staticaly.com/gh/xustudyxu/image-hosting@master/20220629/image.20npni7unbi8.webp)
 
 > 注意:**9300** 端口为 Elasticsearch 集群间组件的通信端口，**9200** 端口为浏览器访问的 http协议 RESTful 端口。
 
-打开浏览器（推荐使用谷歌浏览器），输入地址：http://localhost:9200，测试结果
+> 打开浏览器（推荐使用谷歌浏览器），输入地址：http://localhost:9200，测试结果
 
 ![image](https://cdn.staticaly.com/gh/xustudyxu/image-hosting@master/20220629/image.3dkg1w533xq0.webp)
 
@@ -73,14 +73,14 @@ Windows 版的 Elasticsearch 的安装很简单，解压即安装完毕，解压
 
 准备一台服务器或者有 Linux 系统的虚拟机
 
-在 Linux 里，进入 `/usr/local/` 目录，创建一个目录 `elastic-stack`
+> 在 Linux 里，进入 `/usr/local/` 目录，创建一个目录 `elastic-stack`
 
 ```sh
 cd /usr/local/
 mkdir elastic-stack
 ```
 
-将下载的 Linux 版本通过 `Xftp` 工具传输到 Linux 刚刚创建的目录下
+> 将下载的 Linux 版本通过 `Xftp` 工具传输到 Linux 刚刚创建的目录下
 
 ![image](https://cdn.staticaly.com/gh/xustudyxu/image-hosting1@master/image.76xlq94tidk0.webp)
 
@@ -97,13 +97,13 @@ tar -zxvf elasticsearch-7.8.0-linux-x86_64.tar.gz
 mv elasticsearch-7.8.0 es
 ```
 
-**增加 elasticSearch 用户**
+> **增加 elasticSearch 用户**
 
-必须创建一个非 root 用户来运行 ElasticSearch<Badge text="5"> 及以上版本，基于安全考虑，强制规定不能以 root 身份运行。
+> 必须创建一个非 root 用户来运行 ElasticSearch 及以上版本，基于安全考虑，强制规定不能以 root 身份运行。
 
-如果你使用 root 用户来启动 ElasticSearch，则会报错。
+> 如果你使用 root 用户来启动 ElasticSearch，则会报错。
 
-增加 elasticsearch 用户：
+> 增加 elasticsearch 用户：
 
 ```sh
 useradd es
@@ -157,7 +157,7 @@ http.port: 9200
 cluster.initial_master_nodes: ["node-1"]
 ```
 
-修改 /etc/security/limits.conf，在文件末尾中增加下面内容：
+> 修改 /etc/security/limits.conf，在文件末尾中增加下面内容：
 
 ```sh
 # 每个进程可以打开的文件数的限制
@@ -168,22 +168,22 @@ es hard nofile 65536
 # 注：* 带表 Linux 所有用户名称
 ```
 
-修改 /etc/sysctl.conf，在文件末尾中增加下面内容：
+> 修改 /etc/sysctl.conf，在文件末尾中增加下面内容：
 
 ```sh
 # 一个进程可以拥有的 VMA (虚拟内存区域)的数量,默认值为 65536
 vm.max_map_count=655360
 ```
 
-配置文件后，记得重新加载
+> 配置文件后，记得重新加载
 
 ```sh
 sysctl -p
 ```
 
-切换创建好的用户进行启动
+> 切换创建好的用户进行启动
 
--d 代表后台启动
+> -d 代表后台启动
 
 ```sh
 #	切换用户
@@ -193,7 +193,7 @@ cd /usr/local/elastic-stack/es
 ./bin/elasticsearch -d
 ```
 
-启动时，会动态生成文件，如果文件所属用户不匹配，会发生错误，需要重新进行修改用户
+> 启动时，会动态生成文件，如果文件所属用户不匹配，会发生错误，需要重新进行修改用户
 
 ```sh
 # ElasticSearch 安装目录

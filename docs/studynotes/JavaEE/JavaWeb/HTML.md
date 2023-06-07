@@ -122,7 +122,7 @@ HTML 的全称为 **超文本标记语言（Hyper Text Markup Language）**
 
 - lang：HTML 的 lang 属性可用于网页或部分网页的语言。这对搜索引擎和浏览器是有帮助的。
 
-  根据 W3C 推荐标准，您应该通过 <html> 标签中的 lang 属性对每张页面中的主要语言进行声明。
+  根据 W3C 推荐标准，您应该通过`` <html>`` 标签中的 lang 属性对每张页面中的主要语言进行声明。
 
 - `charset="UTF-8"`字符集
 

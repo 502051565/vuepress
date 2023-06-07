@@ -553,7 +553,7 @@ public class User {
 
 常用方法
  mongoTemplate.findAll(User.class): 查询User文档的全部数据
- mongoTemplate.findById(<id>, User.class): 查询User文档id为id的数据
+ mongoTemplate.findById(``id``, User.class): 查询User文档id为id的数据
  mongoTemplate.find(query, User.class);: 根据query内的查询条件查询
  mongoTemplate.upsert(query, update, User.class): 修改
  mongoTemplate.remove(query, User.class): 删除
