@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/SYT/SYT_MongoDB.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/SYT/SYT_MongoDB.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/studynotes/JavaEE/JavaWeb/HTML.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/JavaEE/JavaWeb/HTML.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/studynotes/database/Redis/Redis_datatype.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/database/Redis/Redis_datatype.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/studynotes/middleware/ElasticSearch/ElasticSearch_MultipleAnalyzers.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/middleware/ElasticSearch/ElasticSearch_MultipleAnalyzers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/studynotes/middleware/ElasticSearch/ElasticSearch_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/middleware/ElasticSearch/ElasticSearch_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/studynotes/middleware/Nginx/Nginx_Site_and_certification.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/studynotes/middleware/Nginx/Nginx_Site_and_certification.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +103,8 @@
       <workItem from="1684722228580" duration="7926000" />
       <workItem from="1684894726949" duration="2152000" />
       <workItem from="1685328687806" duration="8510000" />
-      <workItem from="1685925432271" duration="18786000" />
+      <workItem from="1685925432271" duration="24387000" />
+      <workItem from="1686703303228" duration="6403000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
@@ -104,6 +118,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -135,10 +160,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="120" y="104" width="1126" height="525" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1684227008609" />
-    <state x="486" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1685672101831">
+    <state x="486" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1687140618883">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="486" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1685672101831" />
+    <state x="486" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1687140618883" />
     <state x="288" y="136" width="596" height="602" key="find.popup" timestamp="1686105532139">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -154,7 +179,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/docs/.vuepress/config.js</url>
           <line>37</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
