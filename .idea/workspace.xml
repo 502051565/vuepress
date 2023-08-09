@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -21,7 +24,17 @@
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/base/11_jvm.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/3.design_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/3.design_introduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/4.maven_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/4.maven_introduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/5.es_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/5.es_introduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/7.git_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/7.git_introduce.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +43,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -47,18 +63,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/baodian/high" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\workspacesLwy\vuepress\docs\baodian\high\FBS" />
@@ -105,6 +120,10 @@
       <workItem from="1685328687806" duration="8510000" />
       <workItem from="1685925432271" duration="24387000" />
       <workItem from="1686703303228" duration="6403000" />
+      <workItem from="1690766233498" duration="11179000" />
+      <workItem from="1690944722875" duration="3660000" />
+      <workItem from="1691028806690" duration="2723000" />
+      <workItem from="1691543940897" duration="2935000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
@@ -172,16 +191,5 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="350" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1686120249674" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/docs/.vuepress/config.js</url>
-          <line>37</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
