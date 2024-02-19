@@ -24,17 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="60d854ae-8d22-408e-9108-b93c0b9675aa" name="Default Changelist" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/base/11_jvm.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/base/11_jvm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/1.fbs_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/10.springcloud_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/2.network_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/3.design_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/3.design_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/4.maven_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/4.maven_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/5.es_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/5.es_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/6.tomcat_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/7.git_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/7.git_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/8.redis_introduce.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/baodian/high/FBS/9.zookeeper_introduce.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +54,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -123,7 +113,15 @@
       <workItem from="1690766233498" duration="11179000" />
       <workItem from="1690944722875" duration="3660000" />
       <workItem from="1691028806690" duration="2723000" />
-      <workItem from="1691543940897" duration="2935000" />
+      <workItem from="1691543940897" duration="5751000" />
+      <workItem from="1691974704178" duration="1439000" />
+      <workItem from="1692585476201" duration="2545000" />
+      <workItem from="1693186365941" duration="8864000" />
+      <workItem from="1696644964729" duration="873000" />
+      <workItem from="1696732551359" duration="4153000" />
+      <workItem from="1703063379139" duration="634000" />
+      <workItem from="1705389626850" duration="14000" />
+      <workItem from="1707188570093" duration="1925000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668389930490</created>
@@ -153,43 +151,5 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="225" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1686018287622">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="225" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1686018287622" />
-    <state x="153" y="0" key="CommitChangelistDialog2" timestamp="1685686188371">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="153" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1685686188371" />
-    <state x="120" y="104" width="1126" height="525" key="DiffContextDialog" timestamp="1684227008609">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="120" y="104" width="1126" height="525" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1684227008609" />
-    <state x="220" y="27" key="SettingsEditor" timestamp="1684215800211">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="220" y="27" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1684215800211" />
-    <state x="275" y="115" key="Vcs.Push.Dialog.v2" timestamp="1685686195483">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="275" y="115" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1685686195483" />
-    <state x="120" y="104" width="1126" height="525" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1684227008609">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="120" y="104" width="1126" height="525" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1684227008609" />
-    <state x="486" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1687140618883">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="486" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1687140618883" />
-    <state x="288" y="136" width="596" height="602" key="find.popup" timestamp="1686105532139">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="288" y="136" width="596" height="602" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1686105532139" />
-    <state x="350" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1686120249674">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="350" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1686120249674" />
   </component>
 </project>
