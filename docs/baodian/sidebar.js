@@ -20,6 +20,8 @@ module.exports = [
       '/baodian/base/9_spring',
       '/baodian/base/10_thread',
       '/baodian/base/11_jvm',
+      '/baodian/base/12_erjinzhi',
+      '/baodian/base/13_threadpool',
 
     ]
   },

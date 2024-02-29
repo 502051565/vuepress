@@ -176,7 +176,7 @@ PRINT(A,B,C)
 
 ==要高亮的文本==
 
-==背景会用黄色填充==
+== 背景会用黄色填充 ==
 
 5.上下标
 
@@ -185,3 +185,11 @@ PRINT(A,B,C)
 同样，我们也可以用一对`^`将上标括起来，如：`X^2^`表示X2
 
 上下标可在偏好设置 --> Markdown扩展语法中设置。
+
+
+
+<span style="background:#eef0f4;">浅灰色背景</span>
+<span style="background:#fbd4d0;">浅红色背景</span>
+<span style="background:#d4e9d5;">浅绿色背景</span>
+<span style="background:#dad5e9;">浅紫色背景</span>
+<span style="background:#f9eda6;">浅黄色背景</span>
