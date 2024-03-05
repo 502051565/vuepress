@@ -85,26 +85,26 @@ module.exports = [
       '/baodian/high/FBS/10.springcloud_introduce',
     ]
   },
-  {
-    title:'谷粒商城',
-    collapsable: false,
-    children:[
-    '/baodian/high/GLSC/1.glsc_project_introduct',
-    '/baodian/high/GLSC/2.glsc_environment_build',
-    '/baodian/high/GLSC/3.glsc_springcloud',
-    '/baodian/high/GLSC/4.glsc_vue',
-    '/baodian/high/GLSC/5.glsc_product_service',
-    '/baodian/high/GLSC/6.glsc_warehouse_service',
-    '/baodian/high/GLSC/7.glsc_elasticsearch',
-    '/baodian/high/GLSC/8.glsc_product_up',
-    '/baodian/high/GLSC/9.glsc_pressure_test',
-    '/baodian/high/GLSC/10.glsc_cache_redisson',
-    '/baodian/high/GLSC/11.glsc_search_service',
-    '/baodian/high/GLSC/12.glsc_auth_service',
-    '/baodian/high/GLSC/13.glsc_cart_service',
-    '/baodian/high/GLSC/14.glsc_sentinel',
-    '/baodian/high/GLSC/15.glsc_zipkin',
-    ]
-  }
+  // {
+  //   title:'谷粒商城',
+  //   collapsable: false,
+  //   children:[
+  //   '/baodian/high/GLSC/1.glsc_project_introduct',
+  //   '/baodian/high/GLSC/2.glsc_environment_build',
+  //   '/baodian/high/GLSC/3.glsc_springcloud',
+  //   '/baodian/high/GLSC/4.glsc_vue',
+  //   '/baodian/high/GLSC/5.glsc_product_service',
+  //   '/baodian/high/GLSC/6.glsc_warehouse_service',
+  //   '/baodian/high/GLSC/7.glsc_elasticsearch',
+  //   '/baodian/high/GLSC/8.glsc_product_up',
+  //   '/baodian/high/GLSC/9.glsc_pressure_test',
+  //   '/baodian/high/GLSC/10.glsc_cache_redisson',
+  //   '/baodian/high/GLSC/11.glsc_search_service',
+  //   '/baodian/high/GLSC/12.glsc_auth_service',
+  //   '/baodian/high/GLSC/13.glsc_cart_service',
+  //   '/baodian/high/GLSC/14.glsc_sentinel',
+  //   '/baodian/high/GLSC/15.glsc_zipkin',
+  //   ]
+  // }
 
 ]

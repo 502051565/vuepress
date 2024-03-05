@@ -1089,7 +1089,7 @@ catch 块负责捕获可能出现的异常，并进行处理
 
 fifinally 块负责清理各种资源，不管是否出现异常都会执行
 
-其中 try 块是必须的，catch 和 fifinally 至少存在一个标准异常处理流程
+其中 try 块是必须的，catch 和 finally 至少存在一个标准异常处理流程
 
 ![image-20230601172215892](./1_java_base.assets/image-20230601172215892.png)
 
